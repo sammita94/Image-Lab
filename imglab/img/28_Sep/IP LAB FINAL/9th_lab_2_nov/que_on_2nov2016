@@ -1,0 +1,5 @@
+Questions on 2 nov,2016
+
+perform graph based segmentation on given image
+
+Consider an image I(5,5) . Find the minimum cost path considering all the nodes.

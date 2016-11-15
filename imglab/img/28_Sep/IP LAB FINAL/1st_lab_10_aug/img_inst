@@ -1,0 +1,23 @@
+bash<filename.sh> --- run this file to install opencv 
+use opencv with python
+packages to be used ---- numpy --- used for variations for array operations
+
+usr: IMG_LAB1 (for sec A)
+pswrd: img_gs@cse
+
+$ python
+>>> import cv2
+>>> import matplotlib
+
+
+
+
+
+Read the image
+
+show the image
+
+wrap the image
+/* colour image : 1
+gray scale:  0
+as it is : -1*/

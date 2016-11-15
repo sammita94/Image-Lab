@@ -1,0 +1,13 @@
+Questions as on 31 Aug 2016
+
+Order Statics filter 
+	mean filter
+	median filter
+
+Sharpening filter operations
+
+	1) Sobel
+	2) Prewitt
+	3) Robert
+
+Implement laplacian and gaussian filter 

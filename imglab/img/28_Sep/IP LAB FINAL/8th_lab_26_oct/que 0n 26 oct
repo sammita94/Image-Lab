@@ -1,0 +1,5 @@
+26 OCT, 2016
+Perform the following morphological operations
+1. Dilation 2. erosion 3. opening 4. closing 5. hit or miss(perform on centre of image)
+perform a) region filling b) thickening c) thinning on given image
+calculate first order difference on a given shape then detect boundary of that image or shape

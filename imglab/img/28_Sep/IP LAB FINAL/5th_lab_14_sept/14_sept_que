@@ -1,0 +1,10 @@
+Questions as on 14 sept 2016
+
+1) implement the following filters
+	i) basic filtering
+	ii) homomorphic filtering using illumination and reflectance
+	iii) midpoint filtering
+	iv) alpha trimmed filtering
+	v) contra harmonic mean filtering
+		Q = -1 , harmonic
+		Q = 0 , Arithmetic

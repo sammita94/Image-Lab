@@ -1,0 +1,13 @@
+ 
+  Questions as on 7 September, 2016
+  **********************************
+
+  1. Apply DST, DCT, FT, FFT and wavelet transformation on a given image.
+
+  2. Apply Ideal low pass filter, Butterworth low pass filter and Gaussian low pass filter at radial values of 5, 15, 30, 80, 230.
+
+  3. Apply Ideal high pass filter, Butterworth High pass filter of order 2 with D0 = 15, 30 and 80. 
+
+  4. Apply Gaussian filter.
+
+  5. Obtain Basic Filtering in frequency Domain.

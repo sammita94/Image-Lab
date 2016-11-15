@@ -1,0 +1,14 @@
+Apply the following transformation
+DFT, DCT, DST
+Detect edges in the given images using
+a) Sobel Detector     b) Prewitt Detector     c) Robert Detector
+Find 2-DFT and Amplitude spectrum in the given image
+		3 6 2 4
+		1 5 7 9
+		3 5 9 2
+		1 2 6 7
+
+Consider a straight line form bp the following noisy points in the image space
+(0,0), (1,1), (2,2), (3,3), (4,4)
+Find straight line using Hough transformation
+

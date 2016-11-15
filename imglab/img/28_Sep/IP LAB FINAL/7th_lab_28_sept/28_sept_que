@@ -1,0 +1,18 @@
+Question as on 28 Sept
+
+1) Apply adaptive local noise reduction filter
+
+2) Apply adaptive median filter
+
+3) Perform inverse filtering on a given image
+
+4) Perform homomorphic filtering on a given image
+
+5) Suppose that a digital image is subject to histogram equalisation. Show that the second pass of histogram equalisation is same as the first pass
+
+6) Let the two image f(x,y) and g(x,y) have histogram h(f) and h(g). Show the result for the following arithmetic operations between two histograms
+
+	f(x,y) + g(x,y)
+	f(x,y) - g(x,y)
+	h(f) + h(g)
+	h(f) - h(g) 

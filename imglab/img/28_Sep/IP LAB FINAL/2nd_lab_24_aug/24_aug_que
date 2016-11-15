@@ -1,0 +1,14 @@
+Assignment as on 24 Aug 2016
+
+Basic gray level transformation -
+
+	1. Inverse transformation
+	2. Logarithimic transformation
+	3. Power law transformation
+
+Perform
+	Piecewise linear transformation - bit plane slicing
+
+Perform
+	Histogram processing
+	Histogram generation and equalisation
